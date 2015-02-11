@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wecandeo v0.1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-27 19:33+0900\n"
+"PO-Revision-Date: 2015-01-29 10:38+0900\n"
+"Last-Translator: jds <jds@mgoonmedia.com>\n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ../admin\n"
+
+#. Plugin Name of the plugin/theme
+msgid "WECANDEO - VIDEO PACK"
+msgstr "WECANDEO - 비디오팩"
+
+#. Description of the plugin/theme
+msgid "With this plug-in, you can embed to posts and pages the videos that is uploaded in VIDEO PACK. It also can directly upload videos easily. In order to use the plug-in, is required WECANDEO - VIDEO PACK account and API Key."
+msgstr "이 플러그인을 통해 VIDEO PACK에 곧바로 동영상을 업로드하거나 미리 업로드해 둔 동영상과 플레이어를 글과 페이지에 쉽게 Embed할 수 있습니다. 플러그인 사용을 위해서는 WECANDEO - VIDEO PACK 계정과 API Key가 필요합니다."
+
+#. Author of the plugin/theme
+msgid "mgoonmedia"
+msgstr "엠군미디어"
+
+# @ wecandeo
+#: ../admin/admin.php:173
+msgid "WECANDEO - VP"
+msgstr "WECANDEO - VP"
+
+# @ wecandeo
+#: ../admin/admin.php:198
+msgid "You can use this plug-in after API KEY setup."
+msgstr "API KEY 설정 후 사용 가능합니다."
+
+# @ wecandeo
+#: ../admin/admin.php:245
+msgid "Select a Video Folder"
+msgstr "보관함 폴더 선택"
+
+# @ wecandeo
+#: ../admin/admin.php:246
+msgid "Select a Publish Package"
+msgstr "배포 패키지 선택"
+
+# @ wecandeo
+#: ../admin/admin.php:247
+msgid "Select the file and Folder and Package to Upload video."
+msgstr "업로드할 파일과 폴더, 패키지를 선택하세요."
+
+# @ wecandeo
+#: ../admin/admin.php:248
+msgid "You can upload files one by one."
+msgstr "파일은 한개씩 업로드가 가능 합니다."
+
+# @ wecandeo
+#: ../admin/admin.php:249
+msgid "No video uploaded."
+msgstr "업로드된 동영상이 없습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:250
+msgid "Please select a thumbnail."
+msgstr "썸네일을 선택해 주세요."
+
+# @ wecandeo
+#: ../admin/admin.php:251
+msgid "Package information query failed."
+msgstr "패키지 정보 조회에 실패했습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:252
+msgid "You can upload only files of less than 2GB."
+msgstr "2GB 이하의 파일만 업로드 가능 합니다."
+
+# @ wecandeo
+#: ../admin/admin.php:253
+msgid "Cannot upload 0Byte files."
+msgstr "0바이트 파일은 업로드 할 수 없습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:254
+msgid "An unexpected error has occurred."
+msgstr "예상치 못한 오류가 발생했습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:255
+msgid "Thumbnail setting is failed."
+msgstr "썸네일 설정에 실패했습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:256
+msgid "Video packaging is failed."
+msgstr "동영상 패키징 실패했습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:257
+msgid "Video loading is failed."
+msgstr "동영상 로딩 실패했습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:258
+msgid "No video selected."
+msgstr "선택된 비디오가 없습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:259
+msgid "File name is displayed."
+msgstr "선택한 파일명이 표시됩니다."
+
+# @ wecandeo
+#: ../admin/admin.php:260
+msgid "Waiting"
+msgstr "준비중"
+
+# @ wecandeo
+#: ../admin/admin.php:261
+msgid "Preparing"
+msgstr "준비중"
+
+# @ wecandeo
+#: ../admin/admin.php:262
+msgid "Uploading"
+msgstr "업로드중"
+
+# @ wecandeo
+#: ../admin/admin.php:263
+msgid "Title setting is failed."
+msgstr "제목 설정에 실패했습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:289 ../admin/admin.php:291
+msgid "Add WECANDEO Video"
+msgstr "WECANDEO 동영상 추가"
+
+# @ wecandeo
+#: ../admin/admin.php:307
+msgid "Upload directly"
+msgstr "직접 업로드"
+
+# @ wecandeo
+#: ../admin/admin.php:308
+msgid "Library"
+msgstr "라이브러리"
+
+# @ wecandeo
+#: ../admin/admin.php:326
+msgid "Selected file name is displayed."
+msgstr "선택한 파일명이 표시됩니다."
+
+# @ wecandeo
+#: ../admin/admin.php:332
+msgid "Enter video title."
+msgstr "동영상 제목"
+
+# @ wecandeo
+#: ../admin/admin.php:343
+msgid "Upload Video"
+msgstr "동영상 업로드"
+
+# @ wecandeo
+#: ../admin/admin.php:346
+msgid "Cancel"
+msgstr "취소"
+
+# @ wecandeo
+#: ../admin/admin.php:348
+msgid "Is represented by \"Cannot find a resource\" before encoding is complete."
+msgstr "인코딩이 완료되기까지 \"리소스를 찾을 수 없습니다\"로 표시됩니다."
+
+# @ default
+#: ../admin/admin.php:403
+msgid "Insert into post"
+msgstr ""
+
+# @ default
+#: ../admin/admin.php:406
+msgid "Close Window"
+msgstr ""
+
+# @ wecandeo
+#: ../admin/admin.php:460
+msgid "Plug-in is enabled. You can use this plug-in after API KEY setup."
+msgstr "플러그인을 활성화했습니다. WECANDEO API KEY 설정 후 이용할 수 있습니다."
+
+# @ default
+#: ../admin/admin.php:465
+msgid "Settings"
+msgstr "설정"
+
+# @ wecandeo
+#: ../admin/admin.php:494
+msgid "WECANDEO - VIDEO PACK Setting"
+msgstr "WECANDEO - VIDEO PACK 설정"
+
+# @ wecandeo
+#: ../admin/admin.php:498 ../admin/admin.php:558
+msgid "Wecandeo User ID"
+msgstr "계정 ID"
+
+# @ wecandeo
+#: ../admin/admin.php:499 ../admin/admin.php:542 ../admin/admin.php:570
+msgid "API key authentication is complete."
+msgstr "API 키 인증이 완료되었습니다."
+
+# @ wecandeo
+#: ../admin/admin.php:500
+msgid "Reset API key"
+msgstr "API 키 재설정하기"
+
+# @ wecandeo
+#: ../admin/admin.php:507
+msgid "You can use this plug-in after WECANDEO - VIDEOPACK API KEY setup. Enter API key of your account already use or Join the WECANDEO."
+msgstr "플러그인 사용을 위해 API 키를 인증해야 합니다. WECANDEO에 가입하여 API 키를 발급받거나, 이미 이용 중인 계정의 개발자 API 키를 입력하세요."
+
+# @ wecandeo
+#: ../admin/admin.php:508
+msgid "Create a API Key (Join the WECANDEO)"
+msgstr "API 키 발급받기 (신규 가입)"
+
+# @ wecandeo
+#: ../admin/admin.php:509
+msgid "API key already exists."
+msgstr "API 키 인증하기"
+
+# @ wecandeo
+#: ../admin/admin.php:518 ../admin/admin.php:580
+msgid "Settings saved."
+msgstr "설정 완료"
+
+# @ wecandeo
+#: ../admin/admin.php:538
+msgid "API Key is not valid."
+msgstr "유효하지 않은 API Key 입니다."
+
+# @ wecandeo
+#: ../admin/admin.php:564
+msgid "WECANDEO API Key"
+msgstr "WECANDEO API 키"
+
+# @ wecandeo
+#: ../admin/admin.php:572
+msgid "Please enter a WECANDEO-VIDEOPACK API key."
+msgstr "WECANDEO-VIDEOPACK의 개발자 API 키를 입력하세요."
+
+# @ wecandeo
+#~ msgid "After setting the API KEY available."
+#~ msgstr "API KEY 를 설정 후 사용 가능합니다."
+
+# @ wecandeo
+#~ msgid "Select a folder"
+#~ msgstr "보관함 폴더 선택"
+
+# @ wecandeo
+#~ msgid "Select a package"
+#~ msgstr "배포 패키지 선택"
+
+# @ wecandeo
+#~ msgid "Upload a folder, package, select the file."
+#~ msgstr "업로드할 폴더, 패키지, 파일을 선택 하십시오."
+
+# @ wecandeo
+#~ msgid "It is possible to upload files one by one."
+#~ msgstr "파일은 한개씩 업로드가 가능 합니다."
+
+# @ wecandeo
+#~ msgid "Video is not uploaded."
+#~ msgstr "업로드된 동영상이 없습니다."
+
+# @ wecandeo
+#~ msgid "Failed to import package"
+#~ msgstr "패키지 가져오기 실패 하였습니다."
+
+# @ wecandeo
+#~ msgid "Files are available only upload files less than 2GB."
+#~ msgstr "2GB 이하의 파일만 업로드 가능 합니다."
+
+# @ wecandeo
+#~ msgid "Cannot upload Zero Byte files."
+#~ msgstr "0 바이트 파일을 업로드 할 수 없습니다."
+
+# @ wecandeo
+#~ msgid "Invalid File Type."
+#~ msgstr "예상치 못한 오류가 발생 했습니다."
+
+# @ wecandeo
+#~ msgid "Failed to set the thumbnail."
+#~ msgstr "썸네일 설정 실패 하였습니다."
+
+# @ wecandeo
+#~ msgid "Video package fails."
+#~ msgstr "영상 패키징 실패 하였습니다."
+
+# @ wecandeo
+#~ msgid "Video loading failure."
+#~ msgstr "영상 로딩 실패 하였습니다."
+
+# @ wecandeo
+#~ msgid "Failed to set the title."
+#~ msgstr "제목 설정 실패 하였습니다."
+
+# @ wecandeo
+#~ msgid "Please enter a title."
+#~ msgstr "동영상 제목"
+
+# @ wecandeo
+#~ msgid "Upload a Video"
+#~ msgstr "동영상 업로드"
+
+# @ wecandeo
+#~ msgid "Deletion"
+#~ msgstr "취소"
+
+# @ wecandeo
+#~ msgid "Appears as \"Cannot find a resource\" until to be completed encoding a uploaded file."
+#~ msgstr "인코딩이 완료되기까지 \"리소스를 찾을 수 없습니다\"로 표시됩니다."
+
+# @ wecandeo
+#~ msgid "Enabled the plugin. Sign up and services."
+#~ msgstr "플러그인을 활성화 했습니다. 가입하신 후 서비스를 이용할 수 있습니다."
+
+# @ wecandeo
+#~ msgid "WecanDeo Setting"
+#~ msgstr "WECANDEO - VIDEO PACK 설정"
+
+# @ wecandeo
+#~ msgid "Approved for use in plug-in has been completed."
+#~ msgstr "API 키 인증이 완료되었습니다."
+
+# @ wecandeo
+#~ msgid "Key to reset."
+#~ msgstr "API 키 재설정하기"
+
+# @ wecandeo
+#~ msgid "To use Wecandeo you may need to sign up for an API key. Click the button below to get started."
+#~ msgstr "플러그인 사용을 위해 API 키를 인증해야 합니다. WECANDEO에 가입하여 API 키를 발급받거나, 이미 이용 중인 계정의 개발자 API 키를 입력하세요."
+
+# @ wecandeo
+#~ msgid "Create a new Wecandeo Key"
+#~ msgstr "API 키 발급받기 (신규 가입)"
+
+# @ wecandeo
+#~ msgid "I already have a key"
+#~ msgstr "API 키 인증하기"
+
+# @ wecandeo
+#~ msgid "Key is not valid."
+#~ msgstr "유효하지 않은 Key 입니다."
+
+# @ wecandeo
+#~ msgid "Wecandeo API Key"
+#~ msgstr "개발자 API 키"
+
+# @ wecandeo
+#~ msgid "Please enter a valid key value."
+#~ msgstr "VIDEO PACK의 개발자 API 키값을 입력하세요."
+
+# @ wecandeo
+#~ msgid "Save Changes"
+#~ msgstr "저장 완료"
+
+# @ wecandeo
+#~ msgid "Add WECANDE Video"
+#~ msgstr "WECANDEO 동영상 추가"
