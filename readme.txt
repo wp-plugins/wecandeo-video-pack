@@ -13,10 +13,8 @@ Manage and embed videos hosted on Wecandeo.com.
 
 == Description ==
 
-0.1.5버전부터 oEmbed 방식으로 변경되었습니다.
-
-Edit video metadata directly from your site administrative interface. 
-사이트 관리 인터페이스에서 직접 비디오의 메타 데이터를 편집합니다.
+With this plug-in, you can embed to posts and pages the videos that is uploaded in VIDEO PACK. It also can directly upload videos easily. In order to use the plug-in, is required WECANDEO - VIDEO PACK account and API Key.
+이 플러그인을 통해 VIDEO PACK에 곧바로 동영상을 업로드하거나 미리 업로드해 둔 동영상과 플레이어를 글과 페이지에 쉽게 Embed할 수 있습니다. 플러그인 사용을 위해서는 WECANDEO - VIDEO PACK 계정과 API Key가 필요합니다.
 
 
 == Installation ==
